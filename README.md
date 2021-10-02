@@ -1,2 +1,3 @@
 To install PWA
-![pwa install](https://user-images.githubusercontent.com/90455783/135715096-e96469de-de18-4fdd-81ea-df4ba5e9934c.png)
+![pwa screenshot](https://user-images.githubusercontent.com/90455783/135715238-9ef86348-94e2-4845-abf9-91e35a80f3ee.png)
+
